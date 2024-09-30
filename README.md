@@ -43,6 +43,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Definir uma paleta de cores para o seu projeto, através do seletor `:root` e suas variáveis de cor hexadecimal;
   * Inserir propriedades de estilo ao portfólio, utilizando as tags `font-family`, `font-weight` e `color` para definir a fonte, peso e cor dos textos;
   * Adicionar um estado especial ao `link` de contato, utilizando a pseudo-classe `:hover` para diferenciar sua cor, quando o mouse passar por cima do elemento.
+* **Aula09**
+  * Implementar modais no projeto, utilizando classes do Bootstrap para criá-los e ajustar conforme a sua preferência;
+  * Adicionar botões que acessam os modais, definindo atributos como `data-bs-toggle` e `data-bs-target` para buscar os cards na biblioteca;
+  * Inserir o conteúdo HTML do seu modal, compreendendo quais textos e imagens devem estar presentes no card;
+  * Personalizar seus modais, adequando-os para o seu portfólio e criando uma descrição dos seus projetos.
 
 ## Para Saber Mais
 
