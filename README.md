@@ -37,6 +37,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Construir o rodapé do seu portfólio, inserindo a tag `footer` e, dentro dela, o conteúdo de textos e links;
   * Adicionar suas informações de contato profissional, refletindo sobre quais redes sociais devem ser utilizadas como meio de comunicação no mundo corporativo;
   * Ajustar o espaçamento entre seções e elementos, inserindo classes como `py-5` e `my-5` para padronizar o conteúdo.
+* **Aula08**
+  * Implementar estilos na página, utilizando o CSS para personalizar o seu portfólio;
+  * Importar fontes da biblioteca Google Fonts, utilizando código CSS embedado com a tag `@import`;
+  * Definir uma paleta de cores para o seu projeto, através do seletor `:root` e suas variáveis de cor hexadecimal;
+  * Inserir propriedades de estilo ao portfólio, utilizando as tags `font-family`, `font-weight` e `color` para definir a fonte, peso e cor dos textos;
+  * Adicionar um estado especial ao `link` de contato, utilizando a pseudo-classe `:hover` para diferenciar sua cor, quando o mouse passar por cima do elemento.
 
 ## Para Saber Mais
 
