@@ -28,6 +28,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Criar uma nova seção de conteúdo, utilizando a tag main para separá-la na página principal;
   * Distribuir seus projetos em linhas e colunas, identificando o padrão de grid (grade) da página e determinando a quantidade de colunas com a classe `col-md-4`;
   * Inserir cards da biblioteca em cada coluna, permitindo a visualização de textos e imagens dos seus projetos.
+* **Aula06**
+  * Ajustar estilos e imagens do projeto, observando quais classes devem permanecer ou ser removidas do código;
+  * Melhorar a visualização dos botões, entendendo as diferenças entre âncoras (`<a>`) e botões (`<button>`);
+  * Adicionar mais projetos no seu portfólio, reconhecendo um padrão no código e replicando-o para outros cards;
+  * Organizar seu código com comentários, facilitando a compreensão para outras pessoas que o acessarem.
 
 ## Para Saber Mais
 
