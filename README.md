@@ -33,6 +33,10 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Melhorar a visualização dos botões, entendendo as diferenças entre âncoras (`<a>`) e botões (`<button>`);
   * Adicionar mais projetos no seu portfólio, reconhecendo um padrão no código e replicando-o para outros cards;
   * Organizar seu código com comentários, facilitando a compreensão para outras pessoas que o acessarem.
+* **Aula07**
+  * Construir o rodapé do seu portfólio, inserindo a tag `footer` e, dentro dela, o conteúdo de textos e links;
+  * Adicionar suas informações de contato profissional, refletindo sobre quais redes sociais devem ser utilizadas como meio de comunicação no mundo corporativo;
+  * Ajustar o espaçamento entre seções e elementos, inserindo classes como `py-5` e `my-5` para padronizar o conteúdo.
 
 ## Para Saber Mais
 
