@@ -17,9 +17,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Navegar pela documentação do Bootstrap, explorando diferentes tamanhos de containers e colunas;
   * Fazer a instalação correta da biblioteca no código do projeto, com as tags `link` e `script` para unir os arquivos;
   * Inserir um container do Bootstrap no código, aplicando suas respectivas classes e formatações.
-
-
-
+* **Aula04**
+  * Personalizar o cabeçalho do nosso portfólio, explorando diversas classes CSS do Bootstrap e implementando-as no código;
+  * Alinhar todo o conteúdo de texto ao centro, inserindo a classe `text-center` do Bootstrap;
+  * Arredondar as bordas da imagem,utilizando a classe `rounded-circle`, aplicada à tag `img` do projeto;
+  * Ajustar a tipografia com a classe `lead` para escolher a fonte que será utilizada no nosso texto;
+  * Construir os distintivos de habilidades, através da classe badges que importa um formato parecido com o protótipo.
 
 ## Para Saber Mais
 
