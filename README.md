@@ -23,6 +23,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Arredondar as bordas da imagem,utilizando a classe `rounded-circle`, aplicada à tag `img` do projeto;
   * Ajustar a tipografia com a classe `lead` para escolher a fonte que será utilizada no nosso texto;
   * Construir os distintivos de habilidades, através da classe badges que importa um formato parecido com o protótipo.
+* **Aula05**
+  * Construir a seção de projetos do seu portfólio, utilizando a biblioteca Boostrap para ajustar os elementos na página;
+  * Criar uma nova seção de conteúdo, utilizando a tag main para separá-la na página principal;
+  * Distribuir seus projetos em linhas e colunas, identificando o padrão de grid (grade) da página e determinando a quantidade de colunas com a classe `col-md-4`;
+  * Inserir cards da biblioteca em cada coluna, permitindo a visualização de textos e imagens dos seus projetos.
 
 ## Para Saber Mais
 
