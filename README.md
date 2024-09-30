@@ -48,6 +48,14 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
   * Adicionar botões que acessam os modais, definindo atributos como `data-bs-toggle` e `data-bs-target` para buscar os cards na biblioteca;
   * Inserir o conteúdo HTML do seu modal, compreendendo quais textos e imagens devem estar presentes no card;
   * Personalizar seus modais, adequando-os para o seu portfólio e criando uma descrição dos seus projetos.
+* **Aula10**
+  * Identificar um padrão no código do modal e replicá-lo para criar outros modais com `HTML`;
+  * Adicionar ícones da biblioteca Bootstrap Icons, fazendo a sua instalação com a tag `link` e copiando `HTML` o código do ícone selecionado;
+  * Personalizar o estilo do seu portfólio, adicionando cores de destaque para títulos e links;
+  * Inserir um efeito de cor especial, quando o mouse passa por cima do elemento, através da pseudo-classe do CSS `:hover`;
+  * Compartilhar seu projeto no GitHub, adicionando todos os arquivos dentro de um repositório;
+  * Publicar o portfólio com GitHub Pages, tornando-o acessível na web.
+
 
 ## Para Saber Mais
 
